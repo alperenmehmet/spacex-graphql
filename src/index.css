@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.btn {
+    display: inline-block;
+    padding: .375rem .775rem;
+    background-color: transparent;
+    border: transparent;
+    font-size: 1.5rem;
+    color: blue;
+    cursor: pointer;
+}
